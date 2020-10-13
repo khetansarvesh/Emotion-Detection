@@ -1,4 +1,4 @@
-# Emotion-Detection
+# Facial-Emotion-Detection
 
 Made use of open face library for feature extraction
 
