@@ -1,5 +1,7 @@
 # Facial-Emotion-Detection
 
-Made use of open face library for feature extraction
+Step 1: Used **Open Face** library for Feature Extraction
 
-Developed a genetic search algorithm for feature selection.
+Step 2: Developed a **Genetic Algorithm** for Feature Selection.
+
+Step 3: Used **Random Forest Classifier** for solving classification problem
