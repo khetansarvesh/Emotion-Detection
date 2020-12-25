@@ -10,7 +10,8 @@ Given an image you need to predict if the person in the image is contempt or not
 
 **Step 2:** Using data preprocessing techniques on the generated csv files, this includes combining all the 167 csv files into 1 csv file, normalizing the dataset and labelling the dataset.
 
-**Step 3:** Developed a **Genetic Algorithm** (Local Search Algorithm) for Feature Selection. write details of each function.Show how by using different operators and adjusting the parameters of the search algorithm, brings about a  difference in the Space and Time of the search process, and also the Quality of the search solution
+**Step 3:** Developed a **Genetic Algorithm** (Local Search Algorithm) for Feature Selection and determining the best feature set.write details of each function.Show how by using different operators and adjusting the parameters of the search algorithm, brings about a  difference in the Space and Time of the search process
 
-**Step 4:** Used **KNN** algorithm for training and solving classification problem
+**Step 4:** Training using best feature set that you got using **KNN** algorithm
 
+**Step 5:** Testing using the test dataset
