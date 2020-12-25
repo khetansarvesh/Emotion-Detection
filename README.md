@@ -1,6 +1,11 @@
 # Facial-Emotion-Detection
 
 ## How to run this project
+**Step 1:** Make a folder named "Emotion Detection" in your google drive under "My Drive".This location is very important and should not be messed with because the code internally uses this path.
+
+**Step 2:** Download all the files present in this repository, unzip the zipped folders and upload it into the same "Emotion Detection folder"
+
+**Step 3:** Open the Emotion Detection.ipynb file after uploading using google collaboratory and run the file.
 
 ## Aim of the project
 Given an image you need to predict if the person in the image is showing the emotion of contempt or not.
