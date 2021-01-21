@@ -7,7 +7,7 @@
 
 **Step 3:** Open the Emotion Detection.ipynb file after uploading using google collaboratory and run the file.
 
-## Aim of the project
+## Aim of the project / Problem Statement :
 Given an image you need to predict if the person in the image is showing the emotion of contempt or not.
 
 ## Code Design:
